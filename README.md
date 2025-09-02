@@ -118,8 +118,8 @@ fintech-ml-stock-prediction/
 ├── banking_layer.py        # Risk management & compliance logic
 ├── config.py               # Configuration (loads secrets from .env)
 ├── requirements.txt        # Dependencies
-├── .gitignore              # Files not tracked in git (e.g. .env, model files)
-├── .env.example            # Example of secrets file
+├── LICENSE                 # MIT License
+├── test_system.py          # Testng purposes
 └── README.md               # Project documentation
 ```
 
@@ -156,3 +156,4 @@ For questions or collaborations, open an issue or connect via [GitHub](https://g
 ***
 
 **Happy Trading & Learning!** 🚀
+
