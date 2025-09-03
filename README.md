@@ -47,8 +47,8 @@ Key features:
 ***
 
 ### 🎬 Demo
-![image1](images/image1.png)
 ![image1](images/image2.png)
+![image1](images/image1.png)
 
 ***
 
@@ -162,5 +162,6 @@ For questions or collaborations, open an issue or connect via [GitHub](https://g
 ***
 
 **Happy Trading & Learning!** 🚀
+
 
 
